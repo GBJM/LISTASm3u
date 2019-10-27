@@ -1,0 +1,33 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listasiptvplus.org/wp-content/uploads/2019/04/Nuevas-Listas-IPTV-M3U-actulizadas-gratis-.jpg" group-title="INFO", TUTORIAL 1
+https://youtu.be/MgauVTBtH6o
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listasiptvplus.org/wp-content/uploads/2019/04/Nuevas-Listas-IPTV-M3U-actulizadas-gratis-.jpg" group-title="INFO", PACK DE LISTAS
+https://youtu.be/66Gq_AUFBU4
+
+#EXTINF:-1 tvg-logo="https://www.perlaiptv.com/wp-content/uploads/2019/10/perlaiptv-logo-grande.png" group-title="Perla IPTV", LATINOS
+https://www.perlaiptv.com/listas/latinos.m3u
+#EXTINF:-1 tvg-logo="https://www.perlaiptv.com/wp-content/uploads/2019/10/perlaiptv-logo-grande.png" group-title="Perla IPTV", LATINOS 1
+https://www.perlaiptv.com/listas/latino1.m3u
+#EXTINF:-1 tvg-logo="https://www.perlaiptv.com/wp-content/uploads/2019/10/perlaiptv-logo-grande.png" group-title="Perla IPTV", LATINOS 2
+https://www.perlaiptv.com/listas/latino2.m3u
+#EXTINF:-1 tvg-logo="https://www.perlaiptv.com/wp-content/uploads/2019/10/perlaiptv-logo-grande.png" group-title="Perla IPTV", LATINOS 3
+https://www.perlaiptv.com/listas/latino3.m3u
+
+#EXTINF:-1 tvg-logo="https://www.achoapps.com/wp-content/uploads/2019/10/Somos-los-mejores-achoapps.jpg" group-title="ACHO APPS", LISTA 21
+https://www.achoapps.com/listas/lista21.m3u
+#EXTINF:-1 tvg-logo="https://www.achoapps.com/wp-content/uploads/2019/10/Somos-los-mejores-achoapps.jpg" group-title="ACHO APPS", LISTA 22
+https://www.achoapps.com/listas/lista22.m3u
+#EXTINF:-1 tvg-logo="https://www.achoapps.com/wp-content/uploads/2019/10/Somos-los-mejores-achoapps.jpg" group-title="ACHO APPS", LISTA 23
+https://www.achoapps.com/listas/lista23.m3u
+#EXTINF:-1 tvg-logo="https://www.achoapps.com/wp-content/uploads/2019/10/Somos-los-mejores-achoapps.jpg" group-title="ACHO APPS", LISTA 24
+https://www.achoapps.com/listas/lista24.m3u
+#EXTINF:-1 tvg-logo="https://www.achoapps.com/wp-content/uploads/2019/10/Somos-los-mejores-achoapps.jpg" group-title="ACHO APPS", LISTA 25
+https://www.achoapps.com/listas/lista25.m3u
+#EXTINF:-1 tvg-logo="https://www.achoapps.com/wp-content/uploads/2019/10/Somos-los-mejores-achoapps.jpg" group-title="ACHO APPS", LISTA 26
+https://www.achoapps.com/listas/lista26.m3u
+#EXTINF:-1 tvg-logo="https://www.achoapps.com/wp-content/uploads/2019/10/Somos-los-mejores-achoapps.jpg" group-title="ACHO APPS", SPAIN 4
+https://www.achoapps.com/listas/spain4.m3u
+#EXTINF:-1 tvg-logo="https://www.achoapps.com/wp-content/uploads/2019/10/Somos-los-mejores-achoapps.jpg" group-title="ACHO APPS", SPAIN 5
+https://www.achoapps.com/listas/spain5.m3u
+
