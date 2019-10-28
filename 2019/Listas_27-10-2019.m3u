@@ -37,5 +37,30 @@ http://tecnotv.club/lista.m3u
 http://tecnotv.club/lista2.m3u
 #EXTINF:-1 tvg-logo="http://tecnotv.co/wp-content/uploads/2017/02/logo-tecno-tv.png" group-title="TECNOTV", LISTA Ext
 http://tecnotv.club/ext.m3u
+#EXTINF:-1 tvg-logo="http://tecnotv.co/wp-content/uploads/2017/02/logo-tecno-tv.png" group-title="TECNOTV", SMARTV
+http://tecnotv.club/smartv.m3u
+#EXTINF:-1 tvg-logo="http://tecnotv.co/wp-content/uploads/2017/02/logo-tecno-tv.png" group-title="TECNOTV", PRINCIPAL
+http://tecnotv.club/principal.m3u
+#EXTINF:-1 tvg-logo="http://tecnotv.co/wp-content/uploads/2017/02/logo-tecno-tv.png" group-title="TECNOTV", PELICULAS
+http://tecnotv.club/peliculas.m3u
+
+#EXTINF:-1 tvg-logo="https://tvpremiumhd.com/wp-content/uploads/2018/01/logo-1024x279.png" group-title="TVPREMIUM", TV
+http://tvpremiumhd.club/hd/tv.m3u
+#EXTINF:-1 tvg-logo="https://tvpremiumhd.com/wp-content/uploads/2018/01/logo-1024x279.png" group-title="TVPREMIUM", PELICULAS
+http://tvpremiumhd.club/hd/peliculas.m3u
+#EXTINF:-1 tvg-logo="https://tvpremiumhd.com/wp-content/uploads/2018/01/logo-1024x279.png" group-title="TVPREMIUM", LISTA
+http://tvpremiumhd.club/hd/lista.m3u
+
+#EXTINF:-1 tvg-logo="https://kodiadictos.com/wp-content/uploads/2019/08/464137294_30492-333x360.jpg" group-title="Sr. REGIO", REGIOTV
+http://srregio.xyz/IPTV/regiotv.m3u
+#EXTINF:-1 tvg-logo="https://kodiadictos.com/wp-content/uploads/2019/08/464137294_30492-333x360.jpg" group-title="Sr. REGIO", ALTERNA
+http://srregio.xyz/IPTV/alterna.m3u
+#EXTINF:-1 tvg-logo="https://kodiadictos.com/wp-content/uploads/2019/08/464137294_30492-333x360.jpg" group-title="Sr. REGIO", ALTERNA 2
+http://srregio.xyz/IPTV/alterna2.m3u
+#EXTINF:-1 tvg-logo="https://kodiadictos.com/wp-content/uploads/2019/08/464137294_30492-333x360.jpg" group-title="Sr. REGIO", REGIOFLIX
+http://srregio.xyz/IPTV/regioflix.m3u
+
+#EXTINF:-1 tvg-logo="https://pastebin.com/i/facebook.png" group-title="PASTEBIN, Paste vnC4DnCX
+https://pastebin.com/raw/vnC4DnCX
 
 
