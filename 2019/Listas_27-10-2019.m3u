@@ -6,7 +6,39 @@ https://raw.githubusercontent.com/globalentv2/M3U/master/2019/SSIPTV/16-10-2019-
 https://pastebin.com/raw/YcLpahdA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", GLOBALENTV P2
 https://pastebin.com/raw/GEBzVD0i
+http://bit.ly/LatinoActualizado
+http://bit.ly/TVregioss
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", ESTABLE
+http://bit.ly/Est4ble
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", FLUXUS
+http://bit.ly/ListaFluxs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", LATINOS
+http://bit.ly/Lat1N0s
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", VARIADOS
+http://bit.ly/VVARIADOS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", ESTABLE HOY
+http://bit.ly/EstableActualizada
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", ESTABLE LATINOS
+http://bit.ly/Estable2Latino
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", PREMIUM
+http://bit.ly/St4blePremium
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", M3U ALTERNA
+http://bit.ly/M3UAlterna
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", ESPAÑA NEW
+http://bit.ly/EspañaM3UNueva
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", SIN ID 1
+http://bit.ly/2WTSBZf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", LIST PELIS
+http://bit.ly/Pelis-Nuevalista
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", LIST ALTERNA
+http://bit.ly/ListAlterna
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", SIN ID 2
+http://bit.ly/2EY8HGf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", IPTV LATINOS
+http://bit.ly/IPTV-Latin0S
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", TV REGIOSS
+http://bit.ly/TVregioss
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/listasiptvplus.org/wp-content/uploads/2019/04/Nuevas-Listas-IPTV-M3U-actulizadas-gratis-.jpg" group-title="INFO", TUTORIAL 1
 https://youtu.be/MgauVTBtH6o
@@ -61,13 +93,9 @@ http://tvpremiumhd.club/hd/peliculas.m3u
 http://tvpremiumhd.club/hd/lista.m3u
 
 #EXTINF:-1 tvg-logo="https://kodiadictos.com/wp-content/uploads/2019/08/464137294_30492-333x360.jpg" group-title="Sr. REGIO", REGIOTV
-http://srregio.xyz/IPTV/regiotv.m3u
-#EXTINF:-1 tvg-logo="https://kodiadictos.com/wp-content/uploads/2019/08/464137294_30492-333x360.jpg" group-title="Sr. REGIO", ALTERNA
-http://srregio.xyz/IPTV/alterna.m3u
-#EXTINF:-1 tvg-logo="https://kodiadictos.com/wp-content/uploads/2019/08/464137294_30492-333x360.jpg" group-title="Sr. REGIO", ALTERNA 2
-http://srregio.xyz/IPTV/alterna2.m3u
+http://regioflix.club/IPTV/regiotv.m3u
 #EXTINF:-1 tvg-logo="https://kodiadictos.com/wp-content/uploads/2019/08/464137294_30492-333x360.jpg" group-title="Sr. REGIO", REGIOFLIX
-http://srregio.xyz/IPTV/regioflix.m3u
+http://regioflix.club/IPTV/regioflix.m3u
 
 
 
