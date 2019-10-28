@@ -460,3 +460,92 @@ http://74.222.24.25:1935/live/ngrp:galatvmerida_all/playlist.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1, RCG | SD achoAPPS.com
 http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1, MX: achoAPPS.com 15 TV
+http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com 15TV
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com ACENTO TV
+http://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1, MX: achoAPPS.com CANAL 10 CANCUN
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com CANAL CAPITAL HD
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:-1, MX: achoAPPS.com CANAL DEL SOL 65
+http://canaldelsol01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1, MX: achoAPPS.com CNC3
+http://161.0.157.8/PLTV/88888888/224/3221226845/index.m3u8
+#EXTINF:-1, MX: achoAPPS.com COLOSAL TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com COMUNION TV
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com CUENCA VISION
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com DIGITAL VISION 63
+http://ss1.domint.net:2106/dv6_str/digitalvision/chunklist_w635489753.m3u8
+#EXTINF:-1, MX: achoAPPS.com EDE TV
+http://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_b1894400_slNLD.m3u8
+#EXTINF:-1, MX: achoAPPS.com EL LIDER
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+#EXTINF:-1, MX: achoAPPS.com ESPERANZA TV USA
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com HCH
+http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com MANGO TV RD
+http://mangotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1, MX: achoAPPS.com MICROVISION 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+#EXTINF:-1, MX: achoAPPS.com MICROVISION CANAL 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:-1, MX: achoAPPS.com MONTE MARIA CA
+http://162.212.176.51:1935/live/myStream/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com MULTIMEDIOS MONTERREY OPT 1
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1, MX: achoAPPS.com NEXXO 20
+http://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8
+#EXTINF:-1, MX: achoAPPS.com OMROEP PIM
+http://ms7.mx-cd.net/tv/137-567119/Omroep_PIM.smil/chunklist_b1894400_slNLD.m3u8
+#EXTINF:-1, MX: achoAPPS.com PORTAL FOXMIX
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com PRESUMIENDO
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+#EXTINF:-1, MX: achoAPPS.com RED ADVENIR
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com RTQ QUERETARO
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1, MX: achoAPPS.com RTV ARNHEM
+http://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/chunklist_b1894400_slNLD.m3u8
+#EXTINF:-1, MX: achoAPPS.com TELECEIBA CANAL 7
+http://190.11.224.14:8134/liveevent.m3u8
+#EXTINF:-1, MX: achoAPPS.com TELECENTRO 13
+http://stream.grupotelemicro.com/13.m3u8
+#EXTINF:-1, MX: achoAPPS.com TELEKARIBE
+http://ss1.domint.net:2208/tka_str/telekaribe/chunklist_w37205285.m3u8
+#EXTINF:-1, MX: achoAPPS.com TELEMAR CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com TELESUR
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com TEN HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+#EXTINF:-1, MX: achoAPPS.com TEN CANAL 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8
+#EXTINF:-1, MX: achoAPPS.com TEN CANAL 10 (1+)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:-1, MX: achoAPPS.com TLAXCALA TV
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com TV COSMOS
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com TV CRET
+http://radiocret.net:1935/live/tvcret.sdp/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com TV GLOBO
+http://tv.aliasdns.info:8979/live/g13/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com ULTRA TV PUEBLA
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+#EXTINF:-1, MX: achoAPPS.com VISION NOTICIAS
+http://v8.ciclano.io:1935/visionnoticias/_definst_/visionnoticias/playlist.m3u8
+#EXTINF:-1, MX: achoAPPS.com WEEFF TV
+http://ms7.mx-cd.net/tv/129-562449/WEEFF_TV.smil/chunklist_b1894400_slNLD.m3u8
+#EXTINF:-1, MX: achoAPPS.com WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
