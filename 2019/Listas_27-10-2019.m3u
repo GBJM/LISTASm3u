@@ -31,3 +31,11 @@ https://www.achoapps.com/listas/spain4.m3u
 #EXTINF:-1 tvg-logo="https://www.achoapps.com/wp-content/uploads/2019/10/Somos-los-mejores-achoapps.jpg" group-title="ACHO APPS", SPAIN 5
 https://www.achoapps.com/listas/spain5.m3u
 
+#EXTINF:-1 tvg-logo="https://github.com/GBJM/LISTASm3u/blob/master/TECNOTV.png" group-title="TECNOTV", LISTA
+http://tecnotv.club/lista.m3u
+#EXTINF:-1 tvg-logo="https://github.com/GBJM/LISTASm3u/blob/master/TECNOTV.png" group-title="TECNOTV", LISTA 2
+http://tecnotv.club/lista2.m3u
+#EXTINF:-1 tvg-logo="https://github.com/GBJM/LISTASm3u/blob/master/TECNOTV.png" group-title="TECNOTV", LISTA Ext
+http://tecnotv.club/ext.m3u
+
+
