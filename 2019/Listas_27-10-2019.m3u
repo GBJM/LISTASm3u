@@ -1,7 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", GLOBALENTV G
+https://raw.githubusercontent.com/globalentv2/M3U/master/2019/SSIPTV/16-10-2019-SUPERTV.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", GLOBALENTV P1
+https://pastebin.com/raw/YcLpahdA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTAS", GLOBALENTV P2
+https://pastebin.com/raw/GEBzVD0i
+
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/listasiptvplus.org/wp-content/uploads/2019/04/Nuevas-Listas-IPTV-M3U-actulizadas-gratis-.jpg" group-title="INFO", TUTORIAL 1
 https://youtu.be/MgauVTBtH6o
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/listasiptvplus.org/wp-content/uploads/2019/04/Nuevas-Listas-IPTV-M3U-actulizadas-gratis-.jpg" group-title="INFO", PACK DE LISTAS
 https://youtu.be/66Gq_AUFBU4
 
@@ -60,8 +69,7 @@ http://srregio.xyz/IPTV/alterna2.m3u
 #EXTINF:-1 tvg-logo="https://kodiadictos.com/wp-content/uploads/2019/08/464137294_30492-333x360.jpg" group-title="Sr. REGIO", REGIOFLIX
 http://srregio.xyz/IPTV/regioflix.m3u
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", GLOBAL EN TV
-https://raw.githubusercontent.com/globalentv2/M3U/master/2019/SSIPTV/16-10-2019-SUPERTV.m3u
+
 
 #EXTINF:-1,AD SPORT 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
